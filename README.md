@@ -21,10 +21,10 @@ We use the following No Reference Metrics to compute quality of the results:
  
  ## Link To Work
  
- (https://www.techrxiv.org/articles/preprint/Pansformers_Transformer-Based_Self-Attention_Network_for_Pansharpening/17153228)
+ https://www.techrxiv.org/articles/preprint/Pansformers_Transformer-Based_Self-Attention_Network_for_Pansharpening/17153228
  
  ## Contributors
  
  - Nitish Kumar Murali
  
- -Nithin G R
+ - Nithin G R
