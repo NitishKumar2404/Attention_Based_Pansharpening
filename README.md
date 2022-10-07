@@ -1,5 +1,8 @@
 # Multi-Patch Self-Attention Network for Pansharpening
-Attention-Based Deep Learning model for performing fusion of Optical Remote Sensing Images (Low Resolution Multi-Spectral Image (LRMS) and Panchromatic image (PAN)) to generate a High Resolution Multi-Spectral Image (HRMS)
+
+## Description
+
+This repository contains the code for Attention-Based Deep Learning model for performing fusion of Optical Remote Sensing Images (Low Resolution Multi-Spectral Image (LRMS) and Panchromatic image (PAN)) to generate a High Resolution Multi-Spectral Image (HRMS)
 
 ## Dataset 
 
